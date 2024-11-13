@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<menu>
+    <entry label="Shutdown" action="shutdown"/>
+    <entry label="Reboot" action="reboot"/>
+    <entry label="Suspend" action="suspend"/>
+    <entry label="Hibernate" action="hibernate"/>
+</menu>
